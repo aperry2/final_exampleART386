@@ -1,0 +1,31 @@
+body {
+font-family: 'IM Fell Double Pica', serif;
+}
+
+h1 {
+  font-family: helvetica;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 200px;
+  padding: 5px;
+  border-radius: 20px;
+  text-align: center;
+  background-color: lightBlue;
+}
+
+p {
+  font-family: monospace;
+  margin-left: 20%;
+  margin-right: 30%;
+  padding: 10px;
+  padding-left: 100px;
+  padding-right: 50px;
+  border-radius: 20px;
+  background-color: lightBlue;
+}
+
+h4 {
+  font-family: bungee, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
